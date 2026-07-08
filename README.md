@@ -1,235 +1,99 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vimalraj J</h1>
+<h3 align="center">MERN Full Stack Developer | 2+ Years @ DEALDOX | Building Scalable, Real-Time & AI-Powered Web Apps</h3>
 
-# Hi 👋 I'm Vimalraj J
-
-### MERN Full Stack Developer • AI Enthusiast • Building Production-Ready Applications
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Full+Stack+Developer;Next.js+%7C+Node.js+%7C+TypeScript;GraphQL+%7C+Redis+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS;AI+Powered+Applications;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=vimalrajj04&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-# 💫 About Me
-
-🚀 MERN Full Stack Developer with **2+ years of professional experience** building scalable web applications.
-
-🏢 Currently working at **Dealdox** where I develop enterprise-level CPQ solutions, real-time systems and scalable backend services.
-
-❤️ Passionate about
-
-- Scalable Backend Development
-- AI Powered Applications
-- Clean Architecture
-- System Design
-- Performance Optimization
-- Cloud & DevOps
-
----
-
-# 🚀 Currently Working On
-
-- 🤖 AI Interview Platform
-- ☸️ Kubernetes
-- 📱 React Native
-- 🧠 Advanced System Design
-- ⚡ Performance Optimization
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vimalrajj04" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vimalrajvj1048@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-gamma-pearl.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-### Frontend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+### 🚀 About Me
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,redis" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,redux,vscode" />
-</p>
-
-### Other Technologies
-
-- GraphQL
-- Socket.IO
-- JWT
-- OpenRouter
-- VAPI AI
-- Razorpay
-- AWS SES
-- NGINX
-- Material UI
-- ShadCN UI
+- 💻 MERN Full Stack Developer with **2+ years of experience** building scalable web apps using **React.js, Next.js, Node.js, Express.js & MongoDB**
+- 🏢 Currently working at **DEALDOX** — building CRM integrations, real-time systems, and CPQ product features
+- 🧠 Currently building an **AI Interview Platform** using Next.js 16, GraphQL, Redis, OpenRouter & VAPI AI
+- 🌱 Currently exploring **React Native, Kubernetes, Advanced MongoDB & System Design**
+- 🔧 Comfortable across the stack: REST APIs, GraphQL, Socket.IO, Redis, JWT Auth, Docker & Kubernetes
+- 📫 Reach me at **vimalrajvj1048@gmail.com**
+- ⚡ Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, GraphQL, Redis & MongoDB**
 
 ---
 
-# 💼 Professional Experience
+### 🛠️ Tech Stack
 
-### MERN Full Stack Developer @ Dealdox
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-✔ Built scalable enterprise CPQ modules
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-✔ Integrated Salesforce, HubSpot & LeadSquared
+**Database & Caching**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-✔ Developed Logger & User Activity Tracking
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-✔ Built Real-time applications using Socket.IO
-
-✔ Improved UI Performance using Web Workers
-
-✔ Optimized backend APIs & database architecture
-
-✔ Implemented AWS SES Email Services
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Interview Platform
-
-> Production-level AI Interview Preparation Platform
-
-### Features
-
-- AI Voice Interviews
-- Resume Analyzer
-- AI Feedback
-- AI Generated Questions
-- Google Authentication
-- JWT Authentication
-- GraphQL API
-- Redis Cache
-- Rate Limiting
-- Docker
-- Kubernetes
-
-### Tech Stack
-
-Next.js • TypeScript • GraphQL • Redis • MongoDB • Docker • Kubernetes • OpenRouter • VAPI AI
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## 💬 Tea Kadai Talks
+### 💼 Experience
 
-Real-Time Chat Application
-
-### Features
-
-- One-to-One Chat
-- Group Chat
-- Notifications
-- JWT Authentication
-- Socket.IO
-- Profile Customization
-- Light/Dark Theme
-
-Tech Stack
-
-MERN • Socket.IO • Redux • AWS • NGINX • MongoDB
+**MERN Full Stack Developer — DEALDOX**
+*May 2024 – Present | Bangalore, India*
+- Built pricing & payment modules with Razorpay + Socket.IO real-time updates — improved onboarding efficiency by 30%
+- Integrated Salesforce, LeadSquared & HubSpot CRMs via MVC architecture — cut manual workflow effort by 40%
+- Built a Logger & User Activity Tracking system (Winston, Socket.IO, AWS S3) — enabled 100% traceability
+- Improved UI performance by 40% using Web Workers for heavy data processing
+- Optimized backend architecture for dynamic database provisioning, reducing API response times by 25%
+- Worked on the core Rules Engine in a CPQ product with guided selling & dynamic conditional rendering
+- Implemented Nodemailer + AWS SES for automated email workflows with 99% delivery reliability
 
 ---
 
-# 📈 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
+**🤖 AI Interview Platform** *(May 2026)*
+Production-level AI interview prep platform — mock voice interviews, AI-generated questions, resume analysis & feedback generation using OpenRouter & VAPI AI. Built with Next.js 16, GraphQL, Redis caching, JWT auth, Google OAuth, Docker & Kubernetes.
+🔗 [Portfolio](https://my-portfolio-gamma-pearl.vercel.app/)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vimalrajj04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalrajj04&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalrajj04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+**💬 Real-Time Chat App — Tea Kadai Talks** *(Dec 2025)*
+Real-time chat app with one-to-one & group messaging, notifications, profile customization, light/dark themes. Built with MERN + Socket.IO, deployed on AWS EC2 with NGINX.
+🔗 [Live Project](https://www.teakadaitalks.site)
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vimalrajj04&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalrajj04&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+### 📫 Connect with Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/vimalrajj04">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:vimalrajvj1048@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vimalrajj04">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+<a href="https://www.linkedin.com/in/vimalrajj04" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vimalrajvj1048@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌎 Portfolio
-
-🔗 **Portfolio**
-
-https://my-portfolio-gamma-pearl.vercel.app
-
----
-
-## 💬 Quote
-
-> "Code is not just about making things work; it's about building systems that scale, perform, and create real value."
-
-⭐ If you like my projects, consider giving them a star!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalraj004&show_icons=true&theme=radical" alt="Vimalraj's GitHub stats"/>
+</p>
