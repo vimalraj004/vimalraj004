@@ -94,7 +94,7 @@ Production AI interview prep platform — mock voice interviews, AI-generated qu
 
 `Next.js 16` `GraphQL` `Redis` `OpenRouter` `VAPI AI` `Docker` `K8s`
 
-[🔗 View Portfolio](https://my-portfolio-gamma-pearl.vercel.app/)
+[🔗 Live Project](https://www.teakadaitalks.site)
 
 </td>
 <td width="50%">
@@ -106,7 +106,7 @@ Real-time chat app — 1:1 & group messaging, notifications, light/dark themes.
 
 `MERN` `Socket.IO` `Redux` `AWS EC2` `NGINX`
 
-[🔗 Live Project](https://www.teakadaitalks.site)
+
 
 </td>
 </tr>
